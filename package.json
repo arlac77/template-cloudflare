@@ -2,6 +2,7 @@
   "scripts": {},
   "template": {
     "usedBy": [
+      "arlac77/svelte-common",
       "arlac77/svelte-guard-history-router"
     ],
     "properties": {
