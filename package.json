@@ -1,0 +1,11 @@
+{
+  "scripts": {
+  },
+  "template": {
+    "usedBy": [
+    ],
+    "properties": {
+      "cloudflare": {}
+    }
+  }
+}
