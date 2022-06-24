@@ -18,7 +18,7 @@
     },
     "mergers": [
       {
-        "type": "ReplaceIfEmpty",
+        "type": "Replace",
         "pattern": ".node-version"
       }
     ]
