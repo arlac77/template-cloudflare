@@ -1,4 +1,7 @@
 {
+  "optionalDependencies": {
+    "mf-hosting-cloudflare": "^1.0.5"
+  },
   "template": {
     "usedBy": [
       "arlac77/component-template-designer",
