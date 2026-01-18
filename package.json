@@ -1,6 +1,6 @@
 {
   "optionalDependencies": {
-    "mf-hosting-cloudflare": "^1.0.9"
+    "mf-hosting-cloudflare": "^1.0.10"
   },
   "template": {
     "usedBy": [
